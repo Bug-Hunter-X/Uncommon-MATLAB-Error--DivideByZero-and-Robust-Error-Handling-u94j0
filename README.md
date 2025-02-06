@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon MATLAB error involving division by zero and showcases how to improve error handling. The `bug.m` file contains the original code with potential errors.  The `bugSolution.m` file provides a corrected version with more robust error handling.
